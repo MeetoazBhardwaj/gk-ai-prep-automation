@@ -1,0 +1,84 @@
+
+
+---
+
+## 🚀 Daily Automated Quiz Prompts (Try These Anywhere!)
+
+These are designed to work on the go with ChatGPT, mobile apps, or any AI chatbot.
+
+### 🗓️ Morning Kickstart
+- “Give me 5 quick current affairs questions from the last 24 hours.”
+- “Ask me 3 static GK questions with answers and 1-liner explanations.”
+- “Quiz me on Indian state capitals. Keep asking till I get 5 correct.”
+
+### 🧠 Midday Practice (10-Minute Breaks)
+- “Give me 5 GK questions based on art, culture, or recent awards.”
+- “Flashcard quiz: Ask me country + capital. I will answer fast!”
+- “Make a matching activity: International Organizations vs Headquarters.”
+
+### 🌙 Night Revision
+- “Revise the day’s topic by giving 10 MCQs with difficulty levels.”
+- “Ask 5 tricky quiz questions from today’s news with reasoning.”
+- “Give me a 10-question mixed quiz from this week’s schedule.”
+
+---
+
+## 📘 Homework Exercises for Students
+
+### 📝 Weekly Tasks
+1. **Maintain a GK Journal (Digital or Notion):**
+   - Write 5 facts daily from your quiz sessions.
+   - Add a memory trick for each fact.
+
+2. **Sunday Review Challenge:**
+   - Take your 30-question mixed quiz.
+   - Reflect: What did you get wrong and why?
+
+3. **Infographic Task:**
+   - Pick one GK topic from the week.
+   - Create a one-page visual summary using Canva or Google Slides.
+
+4. **Peer Quiz Creator:**
+   - Make 10 MCQs for a friend based on a chosen topic.
+   - Swap and solve each other’s quizzes.
+
+5. **News Analysis Assignment:**
+   - Choose 1 major current event.
+   - Write a 5-point summary + why it matters (for IIFT applicants especially).
+
+---
+
+## 🛠️ Challenge: Build Your Own GK Automation System
+
+Here’s your opportunity to be innovative like a coder/designer.
+
+> 🔄 **Your mission:** Automate one part of your GK preparation this week using Google Sheets, Notion, Telegram, or any tool.
+
+### 💡 Ideas:
+- Use Google Apps Script to email yourself 5 questions daily.
+- Build a Notion quiz dashboard with streak counters.
+- Setup a Telegram bot to send MCQs every day at 8 AM.
+- Create a form to log your scores and track your weak areas.
+
+📣 **Share it with us!**
+> ✉️ Submit a screenshot or a link of your automation idea, and we’ll feature the best ones + help optimize them!
+
+Let’s turn every learner into a **builder** of their own learning systems.
+
+---
+
+## 📦 Want to Go Further?
+
+- 🔗 **Download**: [Excel Templates for GK Automation](#)
+- 📘 **Use this .mdown file** as your personal GK assistant.
+- 💬 **Ask for help**: Need help building a bot or linking Excel with Notion? Just ask!
+- 🌐 **Join the community**: Create a GK Prep Log using Notion + Google Calendar. We’ll help track it.
+
+---
+
+## 🌟 Final Motivation
+
+Remember, the smartest students don’t just memorize—they **optimize**. You’re not just preparing for an exam. You’re training your mind to stay updated, think critically, and create systems that work for life.
+
+Go build. Go learn. Go lead. 💪
+
