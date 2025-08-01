@@ -69,7 +69,7 @@ Let’s turn every learner into a **builder** of their own learning systems.
 
 ## 📦 Want to Go Further?
 
-- 🔗 **Download**: [Excel Templates for GK Automation](#)
+- 🔗 **Download**: [Download GK_Automation_Templates.xlsx](./GK_Automation_Templates.xlsx)
 - 📘 **Use this .mdown file** as your personal GK assistant.
 - 💬 **Ask for help**: Need help building a bot or linking Excel with Notion? Just ask!
 - 🌐 **Join the community**: Create a GK Prep Log using Notion + Google Calendar. We’ll help track it.
